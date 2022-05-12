@@ -13,6 +13,32 @@ Escolhi a música <em>"Wherever you go"</em> do Alok, para que você traduza a l
 
 >><em>Wherever you go</em>
 
+<li>I remember</li>
+<li>Our last summer
+  <ul>
+    <li>When your heart met mine</li>
+  </ul>
+ <li>We would dive in</li>
+ <li>To the ocean
+  <ul>
+    <li>Always side by side</li>
+  </ul>
+  <li>I hear your world's been getting colder, colder</li>
+  <li>But through it all, I'll be your shoulder, shoulder</li>
+  <li>And even though we're getting older, older</li>
+  <li>Remember what we said<li>
+  
+
+
+
+
+
+
+
+
+
+
+
 
 
   
