@@ -8,8 +8,10 @@ Repositório criado para o <em>desafio</em> do projeto.
 <h6> Vamos pôr em prática as habilidades quanto ao domínio do inglês?</h6>
 Escolhi a música <em>"Wherever you go"</em> do Alok, para que você traduza a letra. 
 
->>Let´s go!
+>LET'S GO!
 
+
+>><em>Wherever you go</em>
 
 
 
