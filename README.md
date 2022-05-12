@@ -26,7 +26,29 @@ Escolhi a música <em>"Wherever you go"</em> do Alok, para que você traduza a l
   <li>I hear your world's been getting colder, colder</li>
   <li>But through it all, I'll be your shoulder, shoulder</li>
   <li>And even though we're getting older, older</li>
-  <li>Remember what we said<li>
+  <li>Remember what we said</li>
+  
+  <li><em>That if the world was ending</li></em>
+  <li><em>You know I'll carry you home</li></em>
+  <li><strong>(You home)</li></strong>
+  <li><em>I'll be the last man standing</li></em>
+  <li><em>To keep you safe from the storm</li></em>
+  <li><strong>(The storm)</li></strong>
+  <li>I'll be the light in your darkest night</li>
+  <li>Until you know it will be alright</li>
+  <li>'Cause if the world was ending</li>
+  <li>You know I'll carry you home</li>
+  
+
+
+
+
+
+
+
+
+
+
   
 
 
