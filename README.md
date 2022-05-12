@@ -5,3 +5,12 @@ Repositório criado para o <em>desafio</em> do projeto.
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
+<h6> Vamos pôr em prática as habilidades quanto ao domínio do inglês?</h6>
+Escolhi a música <em>"Wherever you go"</em> do Alok, para que você traduza a letra. 
+
+>>Let´s go!
+
+
+
+
+  
