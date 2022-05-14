@@ -1,12 +1,8 @@
 # <h3>Desafio do Projeto sobre Git/GitHub da DIO.</h3>
 Repositório criado para o <em>desafio</em> do projeto.
 
-<strong>Links úteis:</strong>
-
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
-
 <h6> Vamos pôr em prática as habilidades quanto ao domínio do inglês?</h6>
-Escolhi a música <em>"Wherever you go"</em> do Alok, para que você traduza a letra. 
+Escolhi a música <em>"Wherever you go"</em>, e você está convidado(a) traduza a letra. 
 
 >LET'S GO!
 
@@ -43,6 +39,10 @@ Escolhi a música <em>"Wherever you go"</em> do Alok, para que você traduza a l
 
 
 
+  <strong>Links úteis:</strong>
+
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Wherever you go](https://www.youtube.com/watch?v=OUTqP0YBzas)
 
 
 
